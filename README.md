@@ -1,4 +1,4 @@
-# BanSystem
+# CeresModeration
 A system for pocketmine servers.
 
 ## Changes
