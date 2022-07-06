@@ -1,5 +1,5 @@
 # CeresModeration
-A system for pocketmine servers.
+full portuguese moderation system for pocketmine 
 
 ## Changes
 - Added MySQL Support (Provider)
