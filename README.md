@@ -60,5 +60,3 @@ A system for pocketmine servers.
 
 ## Issue / Bug report 
 - [Create an Issue](https://github.com/PocketCloudSystem/CloudSystem/issues/new)
-
-# Made with ❤️ by r3pt1s!
