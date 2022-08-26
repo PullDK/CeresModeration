@@ -60,3 +60,5 @@ full portuguese moderation system for pocketmine
 
 ## Issue / Bug report 
 - [Create an Issue](https://github.com/PocketCloudSystem/CloudSystem/issues/new)
+
+## ⚠️ the plugin is not mine, I just edited it to use on my server
